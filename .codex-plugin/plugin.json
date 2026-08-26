@@ -1,26 +1,38 @@
 {
   "name": "showup",
-  "version": "0.1.0",
-  "description": "Turn real work into social drafts in Steven's voice and queue approved content for review.",
+  "version": "0.1.0+codex.20260826031723",
+  "description": "Capture real work, draft personal content, publish approved posts, and learn from the results.",
   "author": {
     "name": "Steven Molina",
     "url": "https://github.com/stevmolina"
   },
   "homepage": "https://github.com/stevmolina/hermes-brain",
   "repository": "https://github.com/stevmolina/hermes-brain",
-  "keywords": ["social-media", "writing", "voice", "notion", "typefully"],
+  "keywords": [
+    "social-media",
+    "writing",
+    "voice",
+    "notion",
+    "typefully"
+  ],
   "skills": "./skills/",
   "interface": {
     "displayName": "Show Up",
     "shortDescription": "Turn your work into posts that sound like you.",
-    "longDescription": "Uses evidence from your work, your saved ideas, and your writing preferences to create relatable X and LinkedIn drafts. It can save drafts to Typefully, but public posting always stays under your control.",
+    "longDescription": "Runs a four-part personal content loop: capture evidence from real work, turn it into relatable drafts, move approved copy through Typefully, and review results without creating another task system.",
     "developerName": "Steven Molina",
     "category": "Productivity",
-    "capabilities": ["Voice profiling", "Content drafting", "Draft management"],
+    "capabilities": [
+      "Content capture",
+      "Voice-aware drafting",
+      "Publishing operations",
+      "Content review"
+    ],
     "defaultPrompt": [
-      "Turn today's work into two post ideas.",
-      "Rewrite this so it sounds like me.",
-      "Save the approved draft to Typefully."
+      "Capture the strongest content moment from today's work.",
+      "Turn this build decision into a relatable post.",
+      "Save the approved draft to Typefully.",
+      "Review this week's content and pick the next story."
     ]
   }
 }
