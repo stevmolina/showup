@@ -1,13 +1,13 @@
 {
   "name": "showup",
-  "version": "0.1.0+codex.20260826031723",
+  "version": "0.2.1",
   "description": "Capture real work, draft personal content, publish approved posts, and learn from the results.",
   "author": {
     "name": "Steven Molina",
     "url": "https://github.com/stevmolina"
   },
-  "homepage": "https://github.com/stevmolina/hermes-brain",
-  "repository": "https://github.com/stevmolina/hermes-brain",
+  "homepage": "https://github.com/stevmolina/showup",
+  "repository": "https://github.com/stevmolina/showup",
   "keywords": [
     "social-media",
     "writing",

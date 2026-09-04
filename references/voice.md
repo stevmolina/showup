@@ -1,49 +1,62 @@
 # Steven's social voice
 
-Read this reference when drafting, rewriting, reviewing a post, or learning from Steven's edits.
+Read this reference when drafting, rewriting, reviewing a post, or learning from Steven's edits. Steven's approved edits and published posts outrank every generalized rule below.
 
-## The sound
+## Durable rules
 
-Steven writes like a smart friend in tech who is still figuring things out in public. The writing is friendly, informal, honest, and understandable beyond a narrow developer audience.
+1. Start from something Steven saw, tried, shipped, broke, or changed his mind about. Report the moment instead of manufacturing a lesson.
+2. Write X in casual Spanish by default. Keep Argentine phrasing, lowercase lines, natural imperfections, and an occasional `jaja`. A short reaction may use English when the joke lands better.
+3. Treat quote-post reactions as the primary X format. Two to eight words can be the whole post. Never explain a joke or verdict that already lands.
+4. Make the reaction or verdict the payload. The source supplies context; Steven supplies the useful judgment, surprise, warning, or joke.
+5. Prefer exact numbers, commands, prices, tool names, and concrete details. Specificity sounds lived-in and makes the claim checkable.
+6. Use short beats and whitespace. Fragments are fine. Stop when the point lands instead of adding a summary or lesson.
+7. Keep the downside, uncertainty, or changed mind when the evidence supports it. Never invent an emotion, motivation, outcome, or authority.
+8. Use conviction only when evidence earns it. Spicy writing sharpens a real contradiction, cost, failure, or bad tradeoff. It does not manufacture outrage.
+9. Let screenshots, memes, clips, demos, and diagrams carry the payload. When the artifact is enough, write less.
+10. Ask a question only when Steven genuinely wants an answer. CTAs are uncommon outside events, launches, collaboration, and real community questions.
+11. Recurring subjects include AI economics, model costs, routing, agents, developer workflows, and Chinese models. These are recurring evidence areas, not a requirement for every post.
+12. Use `😭`, `😎`, or `🤣` only when the emotion adds meaning. One is usually enough.
+13. Remove hashtags, generic hooks, fake lessons, excessive polish, empty engagement bait, and any closing line that summarizes the post back to the reader.
 
-Lead with the human situation. Name the recognizable problem, decision, frustration, or surprise before explaining the implementation. Technical details provide proof. They rarely carry the story by themselves.
+## Highest-authority examples
 
-Write with:
+These are Steven's real posts or approved-to-taste drafts. Match their compression and texture before borrowing patterns from other writers.
 
-- first-person experience when the evidence supports it
-- short, plain sentences with varied rhythm
-- concrete decisions, reactions, and tradeoffs
-- honest uncertainty when the work is unfinished
-- casual Spanish or English that follows Steven's source material
-- questions only when Steven genuinely wants an answer
+> ya me estaba gustando para auditar código 😭
 
-Keep some mess. A post may end with uncertainty. Remove generic hooks, inflated claims, forced lessons, engagement bait, tidy success stories, and marketing transitions.
+> nos puede pasar a cualquiera
 
-Spicy language is an optional mode. When requested, ground the criticism in a real fact or artifact. Prefer one sharp line over exaggerated outrage.
+> todos te entendemos messi
 
-## Useful shapes
+> true gaslighting
 
-### Work in progress
+> Cómo tiene que ser 😎
 
-1. A recognizable problem
-2. What Steven tried
-3. The uncomfortable or surprising part
-4. The current decision or result
-5. What remains unresolved
+> no podes hacer un sass tranquilo porque estos tipos lo agregan a la semana
 
-### Shipped proof
+> Routing inteligente para tener modelos inteligentes a una fracción del costo
+> Cuando nos quiten los subsidios a la IA están van a ser las únicas soluciones
 
-1. Why the thing needed to exist
-2. A short demonstration
-3. One decision that changed the result
-4. What worked and what did not
+> Probando @deepseek_ai y otros modelos chinos me queda cada vez más claro algo: el debate ya no es si son "buenos". Es si van a marcar el estándar de precio y performance.
+>
+> Para escribir, razonar o automatizar, muchos ya sirven sin drama.
+>
+> Solamente que muchas veces buscamos una herramienta innecesaria para un problema simple, no es necesario usar siempre un cohete para pelear con una mosca 🤣
 
-### Opinion
+> Más agentes no es más inteligente.
+>
+> Las empresas se están llenando de agentes que se pisan entre ellos y ya nadie sabe quién hace qué.
+>
+> Un sistema simple que funciona le gana a un orquestador de 12 agentes al que hay que rezarle para que ande.
 
-1. A direct claim grounded in something Steven saw or built
-2. The practical consequence
-3. One short example
+> ¿Te acordás cuando Google te mostraba el mejor resultado?
+>
+> Yo tampoco. Después fue el que más pagaba, y un día dejamos de notar la diferencia.
+>
+> La IA va camino a lo mismo. Nada gratis se queda gratis: lo que usás todos los días es un cebo carísimo que alguien paga por vos, y eso se termina.
+>
+> Disfrutá la IA limpia mientras dure 😎
 
 ## Learning from edits
 
-Steven's choices outweigh this file. Track what he preserves, deletes, softens, or makes more direct during a session. Update this reference only when he asks or when the same preference appears repeatedly across approved edits.
+Use approved copy and published results as evidence, not as permission to flatten the voice into a formula. Track what Steven kept, cut, softened, or made more direct in Notion. Update this file only when Steven requests persistence or the same preference repeats across several approvals or rejections.

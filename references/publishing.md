@@ -2,9 +2,9 @@
 
 Read this reference for Typefully drafts, schedules, publishing, or social-account actions.
 
-## Platform fit
+Read [platform fit](platforms.md) when adapting approved copy for a destination.
 
-Use X for compressed observations, sharp opinions, short build updates, and conversation prompts. Use LinkedIn when the useful part needs more context or a decision deserves explanation. Adapt the story to each platform instead of copying the same text.
+Typefully is the sole delivery adapter for this version. Keep publisher-specific IDs and state out of the skill logic except where needed to call Typefully. Notion remains the canonical content record.
 
 ## Typefully
 
@@ -13,6 +13,7 @@ Use X for compressed observations, sharp opinions, short build updates, and conv
 3. Create platform-specific content. Save privately as a draft unless Steven authorized another state.
 4. Verify the returned draft ID, status, and private URL.
 5. Fetch the draft or draft list when later state matters.
+6. Write the verified Typefully item ID, review URL, platform, status, and relevant timestamp back to the matching Notion record.
 
 Discover the live tool schema before each write. Tool fields and connected platforms may change. A social set does not imply that every platform is connected.
 
