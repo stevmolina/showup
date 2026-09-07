@@ -1,0 +1,21 @@
+{
+  "name": "showup",
+  "interface": {
+    "displayName": "Show Up"
+  },
+  "plugins": [
+    {
+      "name": "showup",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/stevmolina/showup.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

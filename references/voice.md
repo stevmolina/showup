@@ -5,13 +5,13 @@ Read this reference when drafting, rewriting, reviewing a post, or learning from
 ## Durable rules
 
 1. Start from something Steven saw, tried, shipped, broke, or changed his mind about. Report the moment instead of manufacturing a lesson.
-2. Write X in casual Spanish by default. Keep Argentine phrasing, lowercase lines, natural imperfections, and an occasional `jaja`. A short reaction may use English when the joke lands better.
+2. Write X in casual Spanish by default. Keep Argentine phrasing, natural imperfections, and an occasional `jaja`. A short reaction may use English when the joke lands better. Quote-post reactions stay lowercase. Standalone posts use sentence case: capital at the start of each paragraph or clause, normal product caps in the body. Do not end a sentence with a period. Continue with a comma, or stop on a line break. The last character of a line is never `.`
 3. Treat quote-post reactions as the primary X format. Two to eight words can be the whole post. Never explain a joke or verdict that already lands.
-4. Make the reaction or verdict the payload. The source supplies context; Steven supplies the useful judgment, surprise, warning, or joke.
+4. Make the reaction or verdict the payload. The source supplies context; Steven supplies the useful judgment, surprise, warning, or joke. On a standalone post, lead with the verdict, then name the thing. `Encontré el mejor X, estoy usando Y` not `Estoy usando Y`
 5. Prefer exact numbers, commands, prices, tool names, and concrete details. Specificity sounds lived-in and makes the claim checkable.
-6. Use short beats and whitespace. Fragments are fine. Stop when the point lands instead of adding a summary or lesson.
+6. Quote-post reactions can be fragments. Standalone posts use short paragraphs of complete sentences, super corto, with a blank line between them. No slogan stacks, no triad punch lines. Stop when the point lands instead of adding a summary or lesson.
 7. Keep the downside, uncertainty, or changed mind when the evidence supports it. Never invent an emotion, motivation, outcome, or authority.
-8. Use conviction only when evidence earns it. Spicy writing sharpens a real contradiction, cost, failure, or bad tradeoff. It does not manufacture outrage.
+8. Use conviction only when evidence earns it. Spicy writing sharpens a real contradiction, cost, failure, or bad tradeoff. It does not manufacture outrage. Finish the contrast: what is locked or broken, then what the alternative actually does. Do not end on a dunk, a FOMO closer, or a lecture at people who have not switched.
 9. Let screenshots, memes, clips, demos, and diagrams carry the payload. When the artifact is enough, write less.
 10. Ask a question only when Steven genuinely wants an answer. CTAs are uncommon outside events, launches, collaboration, and real community questions.
 11. Recurring subjects include AI economics, model costs, routing, agents, developer workflows, and Chinese models. These are recurring evidence areas, not a requirement for every post.
@@ -56,6 +56,12 @@ These are Steven's real posts or approved-to-taste drafts. Match their compressi
 > La IA va camino a lo mismo. Nada gratis se queda gratis: lo que usás todos los días es un cebo carísimo que alguien paga por vos, y eso se termina.
 >
 > Disfrutá la IA limpia mientras dure 😎
+
+> Encontré el mejor harness de agentes, estoy usando t3 code
+>
+> Misma UI que la app de Codex, con ChatGPT, Claude, Cursor, Grok y OpenCode, las subs que ya pago
+>
+> OpenAI hizo la mejor app, pero funciona atada a su modelo, T3 Code te deja usar todo en un mismo lugar
 
 ## Learning from edits
 

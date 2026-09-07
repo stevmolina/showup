@@ -1,6 +1,6 @@
 {
   "name": "showup",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Capture real work, draft personal content, publish approved posts, and learn from the results.",
   "author": {
     "name": "Steven Molina",
@@ -22,6 +22,7 @@
     "longDescription": "Runs a four-part personal content loop: capture evidence from real work, turn it into relatable drafts, move approved copy through Typefully, and review results without creating another task system.",
     "developerName": "Steven Molina",
     "category": "Productivity",
+    "websiteURL": "https://github.com/stevmolina/showup",
     "capabilities": [
       "Content capture",
       "Voice-aware drafting",
@@ -31,8 +32,7 @@
     "defaultPrompt": [
       "Capture the strongest content moment from today's work.",
       "Turn this build decision into a relatable post.",
-      "Save the approved draft to Typefully.",
-      "Review this week's content and pick the next story."
+      "Save the approved draft to Typefully."
     ]
   }
 }
