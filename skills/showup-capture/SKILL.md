@@ -1,6 +1,6 @@
 ---
 name: showup-capture
-description: Capture Steven's real work, decisions, failures, screenshots, ideas, and shipped proof as content material in Notion. Use when he asks to log a moment, save something for content, inspect recent work for stories, capture an asset, or update the Content Inbox.
+description: Capture Steven's real work, decisions, failures, screenshots, ideas, and shipped proof as content material in Notion. Use when he asks to log a moment, save something for content, inspect recent work for stories ("what from today is worth posting"), capture an asset, or update the Content Inbox. Also the first step when he asks to turn today's work into a post. Gather the evidence here, then draft with showup-draft.
 ---
 
 # Show Up capture

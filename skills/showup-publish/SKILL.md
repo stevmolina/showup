@@ -1,6 +1,7 @@
 ---
 name: showup-publish
 description: Save, queue, schedule, publish, or manage Steven's approved personal social content through Typefully and connected accounts. Use when he asks to put a draft in Typefully or perform a specific social-account action.
+disable-model-invocation: true
 ---
 
 # Show Up publish
