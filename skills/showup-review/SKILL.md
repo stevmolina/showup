@@ -1,6 +1,6 @@
 ---
 name: showup-review
-description: Review Steven's personal content system and published work to learn what resonated, update voice guidance, clear stale material, and choose the next story worth developing. Use for weekly content reviews, performance reviews, or voice calibration from edits and results.
+description: Weekly review of Steven's personal content, covering what resonated, what to update in the voice guide, which stale Content Inbox items to clear, and the next story worth developing. Use for the weekly content review, performance reviews, or voice calibration from his edits and results.
 ---
 
 # Show Up review

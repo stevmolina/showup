@@ -1,6 +1,6 @@
 ---
 name: showup-draft
-description: Turn a real idea, build moment, decision, failure, or Content Inbox entry into relatable personal social drafts in Steven's voice. Use for X or LinkedIn drafts, quote-post reactions, rewrites, build-in-public posts, and platform adaptations, for example "turn today's work into an X post", "turn this into a tweet", "draft a post about today's work", "write a LinkedIn post about X".
+description: Draft social copy from a saved Show Up record, such as a Content Inbox entry Steven names, a quote-post reaction to a source post he links, or an adaptation of an approved draft to another platform. Use when he says "draft the inbox entry", "react to this post", or "adapt this for LinkedIn". Not for turning today's work or raw notes into a new post, which belongs to social-media-studio.
 ---
 
 # Show Up draft

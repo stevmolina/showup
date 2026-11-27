@@ -7,6 +7,13 @@ Show Up is an Agent Plugin for turning real work into personal social content. I
 - `showup-publish` moves approved copy through Typefully.
 - `showup-review` reviews results and improves the content system.
 
+## Which plugin owns what
+
+Show Up sits next to Social Media Studio in Steven's setup. To keep agents from picking the wrong one:
+
+- **Social Media Studio** owns writing a new post from work ("turn today's work into an X post").
+- **Show Up** owns capture of proof into the Content Inbox (`showup-capture`), drafting from a saved inbox entry, a quote-post or an adaptation (`showup-draft`), the weekly review (`showup-review`) and publishing (`showup-publish`, typed only).
+
 ## Compatibility
 
 The root `plugin.json` follows the [Agent Plugins 1.0.0 specification](https://agent-plugins.org/specification). Compatible clients, including Codex and Cursor, discover the skills in `skills/` automatically.
