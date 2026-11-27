@@ -1,0 +1,12 @@
+{
+  "name": "showup",
+  "version": "0.3.0",
+  "description": "Capture real work, draft personal content, publish approved posts, and learn from the results.",
+  "author": {
+    "name": "Steven Molina",
+    "url": "https://github.com/stevmolina"
+  },
+  "homepage": "https://github.com/stevmolina/showup",
+  "repository": "https://github.com/stevmolina/showup",
+  "keywords": ["social-media", "writing", "voice", "notion", "typefully"]
+}

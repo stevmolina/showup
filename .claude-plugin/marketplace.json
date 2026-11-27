@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "showup",
+  "owner": {
+    "name": "Steven Molina",
+    "url": "https://github.com/stevmolina"
+  },
+  "description": "Show Up as a Claude Code plugin: turn real work into posts that sound like you.",
+  "plugins": [
+    {
+      "name": "showup",
+      "source": "./",
+      "description": "Capture real work, draft personal content, publish approved posts, and learn from the results.",
+      "version": "0.3.0",
+      "category": "productivity"
+    }
+  ]
+}

@@ -13,6 +13,10 @@ The root `plugin.json` follows the [Agent Plugins 1.0.0 specification](https://a
 
 The `.codex-plugin/plugin.json` manifest is retained for Codex marketplace presentation metadata and compatibility with existing local installs.
 
+Claude Code reads `.claude-plugin/plugin.json`, and `.claude-plugin/marketplace.json` makes this repository its own one-plugin marketplace.
+
+`showup-publish` posts publicly, so it only runs when typed as a command (`/showup:showup-publish`); agents never start it on their own.
+
 ## Install for local development
 
 ### Cursor
@@ -37,11 +41,23 @@ codex plugin add showup@showup
 
 Restart the Codex app after adding or upgrading the marketplace, then start a new conversation so Codex loads the updated skills.
 
+### Claude Code
+
+```bash
+claude plugin marketplace add stevmolina/showup
+claude plugin install showup@showup
+```
+
+Start a new session after installing or updating (`claude plugin marketplace update showup`).
+
 ## Structure
 
 ```text
 showup/
 ├── plugin.json
+├── .claude-plugin/
+│   ├── plugin.json
+│   └── marketplace.json
 ├── .agents/
 │   └── plugins/
 │       └── marketplace.json
